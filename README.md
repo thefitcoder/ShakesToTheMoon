@@ -4,7 +4,7 @@ This project aims to allow budding developers get hands-on the concept of 3D-web
 
 For those who have no idea of codes, can change the image and content part in the code and deploy the website if they wish to!
 
-![GIF](https://user-images.githubusercontent.com/50311627/188503510-203eaee3-5d09-411e-a7a1-838f1bd5ee91.webm)
+![GIF](https://github.com/thefitcoder/GIfs/blob/main/My%20Video-min.gif)
 
 ## Files
 
