@@ -8,7 +8,7 @@ For those who have no idea of codes, can change the image and content part in th
 
 ## Files
 
-There mainly two division of files in this project. They are: the "**_index.html_**" and the "**_main.js_**". The Rest of the site code can be browsed through the repo.	
+There mainly two main files in this project. They are: the "**_index.html_**" and the "**_main.js_**". The Rest of the site code can be browsed through the repo.	
 
 ## Running the Website
 
